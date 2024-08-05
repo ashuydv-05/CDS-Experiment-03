@@ -41,7 +41,7 @@ return 0;
 ```
 
 ## Output:-
-1[exp3](https://github.com/ashuydv-05/CDS-Experiment-03/blob/main/Screenshot%202024-07-30%20160855.png)
+![exp3](https://github.com/ashuydv-05/CDS-Experiment-03/blob/main/Screenshot%202024-07-30%20160855.png)
 
 ## Conclusion :-
 The experiment covered various operators in C++, including arithmetic, relational, logical, bitwise, assignment, increment/decrement, and the conditional operator. Understanding and correctly implementing these operators is essential for performing different types of operations and controlling the flow of a C++ program. This experiment provided practical knowledge of how these operators work and their applications in a program.
